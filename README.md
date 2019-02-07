@@ -1,0 +1,2 @@
+# STUDNET
+University Social Platform
